@@ -249,7 +249,7 @@
 		"eventemitter3": "^4.0.7",
 		"exif-be-gone": "^1.2.2",
 		"express": "^4.17.3",
-		"express-rate-limit": "^5.5.1",
+		"express-rate-limit": "^6.4.0",
 		"fastq": "^1.13.0",
 		"fflate": "^0.7.3",
 		"fibers": "^5.0.1",
